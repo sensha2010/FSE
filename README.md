@@ -1,2 +1,0 @@
-# FSE
-Full stack engineering
